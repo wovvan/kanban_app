@@ -22,6 +22,8 @@
     "webpack-merge": "^0.14.0"
   },
   "dependencies": {
+    "alt": "^0.18.5",
+    "array.prototype.findindex": "^2.0.0",
     "node-uuid": "^1.4.7",
     "react": "^0.13.3"
   }
