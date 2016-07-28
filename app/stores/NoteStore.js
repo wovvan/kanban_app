@@ -19,7 +19,7 @@ class NoteStore {
     id,
     task
   }) {
-    let notes = this.notes;
+    let notes = this.notes; 
     const noteIndex = this.findNote(id);
     if (noteIndex < 0) {
       return;
